@@ -16,6 +16,9 @@ const NewArrival = styled.div`
     border: none;
     cursor: pointer;
   }
+  .card:first-child{
+    margin-left:0;
+  }
   .card:last-child {
     margin-right: 0;
   }
